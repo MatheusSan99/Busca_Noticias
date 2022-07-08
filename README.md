@@ -2,9 +2,15 @@
 
 #### Como utilizar
 
-- Usando PHP Storm inicie um novo repositorio e rode o seguinte comando no terminal: composer require matheussan99/buscador-noticias
-- Espere as dependências serem instaladas.
-- Abra o terminal e cole o comando: vendor\bin\buscar-noticias.php.bat
+- Usando PHP Storm inicie um novo repositorio e rode o seguinte comando no terminal: 
 
-https://packagist.org/packages/matheussan99/buscador-noticias
+- **composer require matheussan99/buscador-noticias**
+
+- Espere as dependências serem instaladas.
+
+- Abra o terminal e cole o comando: 
+
+- **vendor\bin\buscar-noticias.php.bat**
+
+<a href="https://packagist.org/packages/matheussan99/buscador-noticias">Meu Repositório Packagist</a>
 
