@@ -1,0 +1,1 @@
+Este componente foi feito para fins de estudos, não tem utilidade prática, serve apenas para fazer uma requisição HTTP e buscar as principais noticias de tecnologia do dia Atual.

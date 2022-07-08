@@ -1,4 +1,5 @@
 <?php
+#!/usr/bin/env php
 require_once 'vendor/autoload.php';
 
 use Matheus\BuscadorDeNoticias\Buscador;
