@@ -18,13 +18,10 @@ class Buscador
 
     public function buscar(string $url): array
     {
-        //fazer a requisição a url
         $resposta = $this->httpClient->request('GET', $url);
-        //exibir o corpo da pagina em html
         $html = $resposta->getBody();
 
         $this->crawler->addHtmlContent($html);
-        //filtrar os dados a partir do crowler para pegar as noticias
         $noticiasDoDia = $this->crawler->filter('a.feed-post-link');
         $arrayDeNoticias = [];
 

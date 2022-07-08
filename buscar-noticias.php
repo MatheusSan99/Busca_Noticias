@@ -10,7 +10,6 @@ $crawler = new Crawler();
 
 $buscador = new Buscador($client, $crawler);
 
-
 try {
     $noticias = $buscador->buscar('https://g1.globo.com/tecnologia/');
     exibeNoticia($noticias);
