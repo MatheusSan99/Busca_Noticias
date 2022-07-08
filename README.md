@@ -6,3 +6,5 @@
 - Espere as dependências serem instaladas.
 - Abra o terminal e cole o comando: vendor\bin\buscar-noticias.php.bat
 
+https://packagist.org/packages/matheussan99/buscador-noticias
+
